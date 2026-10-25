@@ -29,7 +29,7 @@ import {
 } from "lucide-react";
 
 /* ------------------------------------------------------------------ */
-/* Content — sourced from Daph's own data                             */
+/* Content — my deets!                                                */
 /* ------------------------------------------------------------------ */
 
 const NAME = "Daph";
@@ -84,12 +84,12 @@ const SERVICES = [
   {
     icon: Globe,
     title: "Web Applications",
-    desc: "Full-stack systems on Cloudflare Workers, D1 and Pages — built to run without a vendor bill.",
+    desc: "Full-stack systems on Cloudflare Workers, D1 and Pages.",
   },
   {
     icon: Smartphone,
     title: "Mobile Apps",
-    desc: "Lightweight companion apps for the hardware I build, tuned for real classrooms and fields.",
+    desc: "Lightweight companion apps for the hardware I build",
   },
 ];
 
